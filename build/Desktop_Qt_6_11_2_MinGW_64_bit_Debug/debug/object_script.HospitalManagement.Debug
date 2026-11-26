@@ -1,0 +1,14 @@
+debug/main.o
+debug/dbmanager.o
+debug/patientmodel.o
+debug/delegates.o
+debug/patientdialog.o
+debug/loginwidget.o
+debug/patientwidget.o
+debug/mainwindow.o
+debug/moc_patientmodel.o
+debug/moc_delegates.o
+debug/moc_patientdialog.o
+debug/moc_loginwidget.o
+debug/moc_patientwidget.o
+debug/moc_mainwindow.o

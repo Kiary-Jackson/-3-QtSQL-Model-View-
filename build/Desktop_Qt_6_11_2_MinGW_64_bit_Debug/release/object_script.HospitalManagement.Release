@@ -1,0 +1,14 @@
+release/main.o
+release/dbmanager.o
+release/patientmodel.o
+release/delegates.o
+release/patientdialog.o
+release/loginwidget.o
+release/patientwidget.o
+release/mainwindow.o
+release/moc_patientmodel.o
+release/moc_delegates.o
+release/moc_patientdialog.o
+release/moc_loginwidget.o
+release/moc_patientwidget.o
+release/moc_mainwindow.o
